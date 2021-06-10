@@ -1,4 +1,6 @@
 # Brute-Tool
+* Coded By TRAKOS
+* Made In iraq 🇮🇶
 # Brute Start
 * apt update
 * apt upgrade 
